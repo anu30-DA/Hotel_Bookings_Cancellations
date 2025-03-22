@@ -1,1 +1,1 @@
-# Hotel_Bookings_Cancellations
+This data analysis project involves creating an interactive dashboard in Excel using Power Pivot and Power Query Editor to transform, clean, and analyse hotel booking data. Power Query was used for data preprocessing, while Power Pivot enabled data modelling and DAX calculations to generate key insights on bookings, cancellations, guest behaviour, and seasonal trends.# Hotel_Bookings_Cancellations
